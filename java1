@@ -14,16 +14,16 @@ public class java1ex {
 
         System.out.printf("\nDigite sua idade em anos:");
         ano = leia.nextInt();
-        System.out.printf("\nDigite quantos meses de vida você tem:");
+        System.out.printf("\nDigite quantos meses de vida vocÃª tem:");
         mes = leia.nextInt();
-        System.out.printf("\nDigite quantos dias de vida você tem:");
+        System.out.printf("\nDigite quantos dias de vida vocÃª tem:");
         dia = leia.nextInt();
      
         
 
         totalDias=(ano*365+ mes*30+dia);
 
-        System.out.printf("\nSua idade em dias é: "+totalDias);
+        System.out.printf("\nSua idade em dias Ã©: "+totalDias);
 
  
     }
